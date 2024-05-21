@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "eco_game"
+    "rest_framework",
+    "eco_game",
 ]
 
 MIDDLEWARE = [
